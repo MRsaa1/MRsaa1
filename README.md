@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Treasury & Liquidity Expert | AI Automation | Ex-PrivatBank | SSRN Author | NVIDIA Inception Program - Member
+### Treasury & Liquidity Expert | AI Automation | Ex-PrivatBank | SSRN Author
 
 #### 🏆 Scientific Analytics Alliance (SAA Alliance) - Premium Research & Wealth Intelligence
 
@@ -66,13 +66,13 @@
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MRsaa1&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MRsaa1&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&include_all_commits=true&count_private=false)
 
 ![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=MRsaa1&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MRsaa1&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MRsaa1&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&exclude_repo=github-stats)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MRsaa1&theme=radical&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=00D9FF)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MRsaa1&theme=radical&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=00D9FF&area=true)
 
 </div>
 
@@ -82,7 +82,7 @@
 
 <div align="center">
   
-![trophy](https://github-profile-trophy.vercel.app/?username=MRsaa1&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+![trophy](https://github-profile-trophy.vercel.app/?username=MRsaa1&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)
 
 </div>
 
