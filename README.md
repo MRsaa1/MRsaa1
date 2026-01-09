@@ -66,15 +66,21 @@
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MRsaa1&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&include_all_commits=true&count_private=false)
+<!-- GitHub Stats - Primary -->
+<img src="https://github-readme-stats.vercel.app/api?username=MRsaa1&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&include_all_commits=true&count_private=false" alt="GitHub Stats" width="100%"/>
 
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=MRsaa1&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
+<!-- GitHub Streak -->
+<img src="https://github-readme-streak-stats.demolab.com/?user=MRsaa1&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" width="100%"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MRsaa1&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&exclude_repo=github-stats)
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRsaa1&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&exclude_repo=github-stats" alt="Top Languages" width="100%"/>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MRsaa1&theme=radical&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=00D9FF&area=true)
+<!-- GitHub Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MRsaa1&theme=radical&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=00D9FF&area=true" alt="GitHub Activity Graph" width="100%"/>
 
 </div>
+
+> **Note**: Statistics may take a few minutes to update. Most repositories are private for security reasons.
 
 ---
 
