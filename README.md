@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Treasury & Liquidity Expert | AI Automation | Ex-PrivatBank | SSRN Author
+### Treasury & Liquidity Expert | AI Automation | Ex-PrivatBank | SSRN Author | NVIDIA Inception Program - Member
 
 #### 🏆 Scientific Analytics Alliance (SAA Alliance) - Premium Research & Wealth Intelligence
 
