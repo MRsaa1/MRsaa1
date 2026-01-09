@@ -66,21 +66,29 @@
 
 <div align="center">
   
-<!-- GitHub Stats - Primary -->
-<img src="https://github-readme-stats.vercel.app/api?username=MRsaa1&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&include_all_commits=true&count_private=false" alt="GitHub Stats" width="100%"/>
+<!-- GitHub Stats - Primary (Alternative Service) -->
+<a href="https://github.com/MRsaa1">
+  <img src="https://stats.ryo-chan.dev/api?username=MRsaa1&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&include_all_commits=true&count_private=false" alt="GitHub Stats" width="100%"/>
+</a>
 
-<!-- GitHub Streak -->
-<img src="https://github-readme-streak-stats.demolab.com/?user=MRsaa1&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" width="100%"/>
+<!-- GitHub Streak (Alternative Service) -->
+<a href="https://github.com/MRsaa1">
+  <img src="https://streak-stats.demolab.com/?user=MRsaa1&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" width="100%"/>
+</a>
 
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRsaa1&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&exclude_repo=github-stats" alt="Top Languages" width="100%"/>
+<!-- Top Languages (Alternative Service) -->
+<a href="https://github.com/MRsaa1">
+  <img src="https://stats.ryo-chan.dev/api/top-langs/?username=MRsaa1&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&exclude_repo=github-stats" alt="Top Languages" width="100%"/>
+</a>
 
 <!-- GitHub Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MRsaa1&theme=radical&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=00D9FF&area=true" alt="GitHub Activity Graph" width="100%"/>
+<a href="https://github.com/MRsaa1">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MRsaa1&theme=radical&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=00D9FF&area=true" alt="GitHub Activity Graph" width="100%"/>
+</a>
 
 </div>
 
-> **Note**: Statistics may take a few minutes to update. Most repositories are private for security reasons.
+> **Note**: Statistics are generated from public repositories. Most repositories are private for security reasons. If stats don't load, the service may be temporarily unavailable.
 
 ---
 
@@ -88,7 +96,9 @@
 
 <div align="center">
   
-![trophy](https://github-profile-trophy.vercel.app/?username=MRsaa1&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)
+<a href="https://github.com/MRsaa1">
+  <img src="https://github-profile-trophy.vercel.app/?username=MRsaa1&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" width="100%"/>
+</a>
 
 </div>
 
