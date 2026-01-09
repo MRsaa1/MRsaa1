@@ -65,30 +65,57 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-<!-- GitHub Stats - Primary (Alternative Service) -->
-<a href="https://github.com/MRsaa1">
-  <img src="https://stats.ryo-chan.dev/api?username=MRsaa1&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&include_all_commits=true&count_private=false" alt="GitHub Stats" width="100%"/>
-</a>
 
-<!-- GitHub Streak (Alternative Service) -->
-<a href="https://github.com/MRsaa1">
-  <img src="https://streak-stats.demolab.com/?user=MRsaa1&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" width="100%"/>
-</a>
+### ⭐ GitHub Statistics
 
-<!-- Top Languages (Alternative Service) -->
-<a href="https://github.com/MRsaa1">
-  <img src="https://stats.ryo-chan.dev/api/top-langs/?username=MRsaa1&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&exclude_repo=github-stats" alt="Top Languages" width="100%"/>
-</a>
+<table>
+<tr>
+<td width="50%">
 
-<!-- GitHub Activity Graph -->
-<a href="https://github.com/MRsaa1">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MRsaa1&theme=radical&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=00D9FF&area=true" alt="GitHub Activity Graph" width="100%"/>
-</a>
+**GitHub Stats**
+- ⭐ **Total Stars**: 14
+- 📦 **Repositories**: 13+ (Most are private)
+- 📝 **Commits**: Active contributor
+- 🔥 **Streak**: Active (Last commit: Today)
+
+</td>
+<td width="50%">
+
+**GitHub Streak**
+- 🔥 **Current Streak**: Active
+- 📅 **Last Contribution**: Today
+- 💪 **Consistency**: Maintaining active development
+
+</td>
+</tr>
+</table>
+
+### 💻 Top Languages
+
+<div align="center">
+
+| Language | Usage |
+|:--------:|:-----:|
+| **Python** | 42% |
+| **Go** | 17% |
+| **TypeScript** | 8% |
+| **Swift** | 8% |
+| **Dart** | 8% |
+| **HTML** | 8% |
+| **Other** | 9% |
 
 </div>
 
-> **Note**: Statistics are generated from public repositories. Most repositories are private for security reasons. If stats don't load, the service may be temporarily unavailable.
+### 📈 Activity Overview
+
+- 🚀 **Active Development**: Building institutional-grade AI solutions
+- 🤖 **Focus Areas**: Risk Management, Financial Analytics, AI/ML
+- 🏆 **NVIDIA Inception Program**: Approved member
+- 🔒 **Security**: Most repositories are private for security
+
+</div>
+
+> **Note**: Statistics are manually maintained. Most repositories are private for security reasons.
 
 ---
 
