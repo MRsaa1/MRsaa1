@@ -117,14 +117,12 @@
 
 > **Note**: Statistics are manually maintained. Most repositories are private for security reasons.
 
----
-
-## 🏆 GitHub Trophies
+### 📈 GitHub Activity Graph
 
 <div align="center">
   
 <a href="https://github.com/MRsaa1">
-  <img src="https://github-profile-trophy.vercel.app/?username=MRsaa1&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MRsaa1&theme=radical&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=00D9FF&area=true" alt="GitHub Activity Graph" width="100%"/>
 </a>
 
 </div>
