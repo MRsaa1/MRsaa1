@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-### Treasury & Liquidity Expert | AI Automation | Ex-PrivatBank | SSRN Author | NVIDIA Inception Program - Member
+### Treasury & Liquidity Expert | AI Automation | Ex-PrivatBank | SSRN Author
 
 #### 🏆 Scientific Analytics Alliance (SAA Alliance) - Premium Research & Wealth Intelligence
 
 #### 🚀 Building Institutional-Grade AI Solutions for Risk Management & Financial Analytics
 
 **📍 Based in Spain** | **🌐 [SAA Alliance](https://saa-alliance.com)**
-
+я 
 ---
 
 ## 🎯 About Me
@@ -142,6 +142,7 @@
 🔗 [Repository](https://github.com/MRsaa1/Global-Risk-Intelligence-Platform) | **Tech Stack**: Python, FastAPI, PostgreSQL, Redis, React, TypeScript | **NVIDIA Technologies**: NVIDIA API, NVIDIA NIM, Multiple NVIDIA models integration
 
 ### 📊 SAA Risk Analyzer - Portfolio Risk Analytics
+
 **NVIDIA Inception Program Approved** - Institutional-grade portfolio risk management platform with GPU-ready Monte Carlo simulations. Real-time VaR/CVaR calculations for portfolios with thousands of assets. Three calculation methods: Historical (GPU-ready), Parametric, and Monte Carlo (10k-100k paths). GPU Service architecture ready for acceleration with sub-second calculations on CPU, real-time on GPU.
 
 🔗 [Repository](https://github.com/MRsaa1/SAA-Risk-Analyzer-Portfolio-Risk-Analytics) | **Tech Stack**: Go 1.22+, Python, JAX, CuPy, FastAPI, PostgreSQL+TimescaleDB | **NVIDIA Technologies**: NVIDIA NIM (Llama3 70B/8B Instruct), CUDA Python, RAPIDS, TensorRT, cuGraph, cuPy
